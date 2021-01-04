@@ -1,3 +1,9 @@
+---
+title: 自己紹介を兼ねたテスト投稿
+type: "tech"
+topics: [] 
+published: true
+---
 # 自己紹介
 
 を兼ねた投稿のテスト。
