@@ -3,7 +3,7 @@ title: OpenStackでCephを使う場合のディスクキャッシュ設定につ
 emoji:  🦊
 type: "tech"
 topics: ["仮想化", "ストレージ", "OpenStack", "KVM", "Ceph"]
-published: false
+published: true
 ---
 
 # 概要
