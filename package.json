@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/tj8000rpm/zenn-content#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.69"
+    "zenn-cli": "^0.1.79"
   }
 }
