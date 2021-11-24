@@ -3,7 +3,7 @@ title: ETSI NFV SOL001の歩き方
 emoji:  🦊
 type: "tech"
 topics: ["仮想化", "NFV", "ETSI", "標準化"]
-published: false
+published: true
 ---
 
 本ドキュメントは通信業界アドベントカレンダー 2021 の1日目の記事として執筆したものです。
