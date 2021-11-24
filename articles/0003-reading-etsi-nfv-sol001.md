@@ -6,6 +6,12 @@ topics: ["仮想化", "NFV", "ETSI", "標準化"]
 published: false
 ---
 
+本ドキュメントは通信業界アドベントカレンダー 2021 の1日目の記事として執筆したものです。
+
+その他の記事はQiitaのアドベントカレンダーページからどうぞ！
+
+https://qiita.com/advent-calendar/2021/telecom
+
 
 # ETSI GS NFV
 
